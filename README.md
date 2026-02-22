@@ -2,7 +2,7 @@
 
 A real-time public chatroom. No account needed — just open it, pick a name, and start talking.
 
-**[→ Try it live](https://)**
+**[→ Try it live](https://chat-app-pi-ecru-87.vercel.app)**
 
 ---
 
